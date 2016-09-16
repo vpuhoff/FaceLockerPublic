@@ -11,14 +11,14 @@
     <deploymentProvider codebase="http://questsoft.azurewebsites.net/SURF.application" />
   </deployment>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SURF.exe.manifest" size="25244">
+    <dependentAssembly dependencyType="install" codebase="SURF.exe.manifest" size="24151">
       <assemblyIdentity name="SURF.exe" version="1.0.0.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7vSktZV9ghlOHahWgtO7+Px+IOY=</dsig:DigestValue>
+        <dsig:DigestValue>JVa0X17XPZVQiDb94yVjpfJCRQM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
