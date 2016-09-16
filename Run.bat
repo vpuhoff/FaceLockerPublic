@@ -1,2 +1,2 @@
 ﻿git pull
-SERF.exe
+SURF.exe
