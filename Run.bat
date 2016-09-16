@@ -1,2 +1,3 @@
-﻿git pull
+﻿echo off
+git pull
 SURF.exe
