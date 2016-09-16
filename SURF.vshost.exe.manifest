@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="SURF.exe" version="1.0.0.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="SURF" version="1.0.0.32291" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="SURF" version="1.0.0.33651" language="neutral" processorArchitecture="x86" />
     <commandLine file="SURF.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -224,14 +224,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SURF.exe" size="32768">
-      <assemblyIdentity name="SURF" version="1.0.0.32291" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SURF.exe" size="33664">
+      <assemblyIdentity name="SURF" version="1.0.0.33651" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xyIJXOXL4zRSgXiRPCepgfb9CI4=</dsig:DigestValue>
+        <dsig:DigestValue>Sey4JQFv0e2yQRsidC0llLfV4n0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
